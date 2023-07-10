@@ -1,0 +1,255 @@
+/*---body css start---*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*---body css end---*/
+/*---header css start---*/
+.header-flower-main {
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-flower-column {
+    width: 50%;
+    padding: 0 159px;
+}
+
+.header-title {
+    color: #272727;
+    font-size: 72px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.header-description {
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.header-btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: 0;
+    margin-top: 32px;
+}
+
+.header-img {
+    margin-top: 50px;
+}
+
+/*---header css end---*/
+/*---our-featured-flower css start---*/
+.our-featured-flower {
+    padding-top: 178px;
+}
+
+.our-featured-article {
+    text-align: center;
+}
+
+.our-feature-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.our-featured-description {
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+}
+
+.flower-featured {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 32px;
+}
+
+.flower-featured figure {
+    width: 464px;
+    height: 538px;
+}
+
+.flower-figure-1 {
+    border-radius: 300px 300px 0px 0px;
+    background: #a7216226;
+}
+
+.flower-figure-1 img {
+    margin-top: 109px;
+    margin-left: 60px;
+}
+
+.flower-figure-2 {
+    border-radius: 300px 300px 0px 0px;
+    background: #0597a026;
+}
+
+.flower-figure-2 img {
+    margin-top: 125px;
+    margin-left: 50px;
+}
+
+.flower-figure-3 {
+    border-radius: 300px 300px 0px 0px;
+    background: #477d1126;
+}
+
+.flower-figure-3 img {
+    margin-top: 66px;
+    margin-left: 60px;
+}
+
+.flower-featured-figcation {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 32px;
+}
+
+.extra-margin {
+    margin-top: 74px;
+}
+
+/*---our-featured-flower css end---*/
+/*---same day delivery-flower css start---*/
+.same-day-delivery {
+    margin: 0 240px;
+}
+
+.same-day {
+    margin-top: 140px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: #2727270d;
+}
+
+.day-delivery-img {
+    padding-top: 86px;
+    padding-bottom: 100px;
+}
+
+.day-delivery-img h3 {
+    color: #272727cc;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-top: 24px;
+}
+
+.day-delivery-img img {
+    transform: translateX(50%);
+}
+
+.margin-left {
+    margin-left: 65px;
+}
+
+/*---same day delivery-flower css end---*/
+/*===hot deal css start===*/
+.hot-deal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 180px;
+    border-radius: 8px;
+    background: #e554730d;
+    margin-top: 128px;
+}
+
+.hot-deal-content {
+    text-align: center;
+}
+
+.hot-deal-off {
+    color: #E55473;
+}
+
+.hot-deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.hot-deal-description {
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+}
+
+.hot-deal-btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    margin-top: 24px;
+}
+
+.hot-deal-content img {
+    padding-top: 80px;
+}
+
+/*===hot deal css end===*/
+/*===instagram css start===*/
+.instagram-main {
+    margin: 0 240px;
+    margin-top: 128px;
+}
+.instagram-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.instagram-description {
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+
+.instagram-image {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+/*===instagram css end===*/
