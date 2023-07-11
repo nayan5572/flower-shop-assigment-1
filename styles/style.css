@@ -306,6 +306,45 @@ body {
 
 /*===How it work css end===*/
 
+/*===surprise css start===*/
+.surprise-main-part{
+    padding: 0 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-bottom: 100px;
+}
+.surprise-column{
+    
+}
+.surprise-iframe{}
+.surprise-title{
+    font-size: 38px;
+    color: #2B2B2B;
+}
+.surprise-span{
+    color: #E55473;
+}
+.surprise-description{
+    font-size: 17px;
+    line-height: 29px;
+    color: #6D6A6A;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.surprise-icon{
+    margin-left: 10px;
+    line-height: 32px;
+    font-size: 16px;
+    color: #6D6A6A;
+}
+.surprise-heart{
+    color:#E55473;
+    margin-right: 10px;
+}
+/*===surprise css end===*/
+
 /*===latest css start===*/
 .latest-main {
     margin-top: 128px;
