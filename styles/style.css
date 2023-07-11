@@ -15,10 +15,11 @@ body {
 /*---body css end---*/
 /*---header css start---*/
 .header-flower-main {
-    background-color: rgba(229, 84, 115, 0.10);
+    background-color: #e554731a;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 847px;
 }
 
 .header-flower-column {
@@ -54,7 +55,9 @@ body {
 .header-img {
     margin-top: 50px;
 }
-
+.header-img img{
+    
+}
 /*---header css end---*/
 /*---our-featured-flower css start---*/
 .our-featured-flower {
@@ -268,6 +271,11 @@ body {
 .how-it-work-title{
     font-size: 50px;
     color: #545454;
+}
+.how-it-work-icon{
+    font-size: 40px;
+    margin-top: 20px;
+    color: #E55473;
 }
 .how-it-description{
     font-size: 16px;
